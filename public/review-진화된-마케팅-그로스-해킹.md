@@ -7,6 +7,7 @@ tags:
   - 스타트업
   - 마케팅
   - 그로스 해킹
+date: 2018-08-02
 ---
 
 ![growth-hacking](review-진화된-마케팅-그로스-해킹/growth-hacking.png)
