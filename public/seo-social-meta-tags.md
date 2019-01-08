@@ -1,5 +1,5 @@
 ---
-title: SEO 첫번째, 소셜 메타 태그와 적용시 노하우.
+title: SEO 첫번째, 소셜 메타 태그와 적용시 노하우 그리고 트러블 슈팅.
 description: ogtag, twitter 태그 작업에 대한 작은 기록.
 tags:
   - seo
