@@ -1,11 +1,13 @@
 ---
 title: TypeScript, 특정 타입의 인자만 받아들이기
-description: plus<K extends keyof S>(path: K, a: Extract<S[K], number>) {}
+description: Extract 키워드를 활용하여 특정 타입의 인자만을 받는 함수를 작성한다.
 tags:
   - typescript
   - typing
   - dynalee
 ---
+
+
 
 어떤 `interface` 의 특정 **타입** 의 프로퍼티만을 받고자 하는 니즈가 있어 구현을 해보았다. 이 방법이 꽤나 사용측면에서 유용했다 느껴 글을 써본다.
 
