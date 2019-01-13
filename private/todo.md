@@ -25,15 +25,17 @@
 - [ ] 기업선택에 대한 조언 - 퍼블릭 클라우드
 - [ ] GraphQL, Apollo 의 명과 암
 - [ ] 서버리스 프레임워크 - 참조 <https://blog.bglee.me/posts/2018/serverless-management-issue/>
+- [ ] 클라이언트 렌더링의 트릭
+- [ ] polifill, ponyfill
 
 ## 할일
 
 ## 구깃
 
-- [ ] 이력서 작성 dynamic height 구현
+- [x] 이력서 작성 dynamic height 구현
 - [ ] 프린팅용 SSR 전용 이력 페이지 작성(HTML)
 - [ ] PDF 생성 요청 버튼을 피시에서 숨길지
-- [ ] 웹 이력서에서 `RECENT POSTS` 링크 작동 안함
+- [x] 웹 이력서에서 `RECENT POSTS` 링크 작동 안함
 
 ### 사이드
 
