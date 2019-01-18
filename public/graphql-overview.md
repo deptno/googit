@@ -47,7 +47,7 @@ API는 환경에 따라 끔찍하지만 `text` 문서로 전달될 수도 있다
 
 개인적으로 이보다는 더 편한 형태가 [웹스톰 서버리스 디버깅 설정](https://googit.io/post/ap-northeast-2:c03f8bf0-992e-48a8-93b6-15787a0fc96f/public/webstorm-debug-serverless/) 글에서 설명한 텍스트 파일 형태다. 
 
-![텍스트 기반의 HTTP 테스트](webstorm-debug-serverless/webstorm-debugging.gif)
+![텍스트 기반의 HTTP 테스트](https://raw.githubusercontent.com/deptno/googit/master/public/webstorm-debug-serverless/webstorm-debugging.gif)
 
 GraphQL 은 더 나은 환경을 제공해주는데 자체적인 프로토콜(문서, 디버깅을 위한 프로토콜이랄까..)을 지원하고 그에 대한 툴(GraphiQL, Playground)이 지원되어 IDE를 사용하듯이 자동완성이 지원되는 환경 속에서 신뢰할 수 있는 문서 기반으로 데이터를 테스트할 수 있다.
 
