@@ -71,13 +71,13 @@ export default class extends App {
 
 ```typescript
 localStorage.setItem(
-    'sharedData',
-    JSON.stringify({
-        sessionId:		sessionStorage.getItem('sessionId'),
-        type: 'SetUnreadNotificationCount',
-        payload: {count: 0},
-        burst: Math.random()
-    })
+  'sharedData',
+  JSON.stringify({
+    sessionId:		sessionStorage.getItem('sessionId'),
+    type: 'SetUnreadNotificationCount',
+    payload: {count: 0},
+    burst: Math.random()
+  })
 )
 ```
 
